@@ -7,5 +7,5 @@
 
 # Learning Projects
 <ul>
-<li>[## ToDo Master](https://github.com/RagavRyan365/todo-master)<li/>
+<li>[ToDo Master](https://github.com/RagavRyan365/todo-master)<li/>
 <ul/>

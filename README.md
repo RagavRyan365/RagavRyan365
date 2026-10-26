@@ -1,7 +1,18 @@
-# *Social*
-[<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="30" height="30" alt="LinkedIn">](https://linkedin.com/in/ragav-ryan)
-[<img src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" width="30" height="30" alt="Email">](mailto:ragavryan2008@gmail.com)
-[<img src="https://static.vecteezy.com/system/resources/previews/018/930/415/large_2x/instagram-logo-instagram-icon-transparent-free-png.png" width="30" height="30" alt="Instagram">](https://instagram.com/_ryan._21_)
 
-# *Skill Sets*
-<img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="40" height="40" alt="Java">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="40" height="40" alt="JavaScript">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="40" height="40" alt="TypeScript">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/React.svg" width="40" height="40" alt="React.js">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="40" height="40" alt="Next.js">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" height="40" alt="HTML">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" height="40" alt="CSS">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="40" height="40" alt="TailwindCSS">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="40" height="40" alt="Express.js">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="40" height="40" alt="Node.js">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="40" height="40" alt="Git">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" width="40" height="40" alt="GitHub">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40" height="40" alt="MongoDB">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" width="40" height="40" alt="C++">&nbsp;&nbsp;<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" height="40" alt="Python">&nbsp;&nbsp;
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ryan._21_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ragav-ryan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ragavryan2008@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RagavRyan365&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RagavRyan365&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RagavRyan365&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=RagavRyan365&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
